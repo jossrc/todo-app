@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Más Información
 
-Bienvenidos, este es mi primer ejercicio que realizo mientras pongo a prueba los conocimientos aprendidos con Angular, cual ayuda o mejora es aceptada con gusto. Practicaré mucho más hasta desarrollar un bonito proyecto :)
+Bienvenidos, este es mi primer ejercicio que realizo mientras pongo a prueba los conocimientos aprendidos con Angular, cualquier ayuda o mejora es aceptada con gusto. Practicaré mucho más hasta desarrollar un bonito proyecto :)
 
 ## Instalación
 
