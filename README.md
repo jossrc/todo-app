@@ -9,6 +9,7 @@ Bienvenidos, este es mi primer ejercicio que realizo mientras pongo a prueba los
 ## Instalación
 
 Para que puedan probarlo es necesario que hagan las siguientes instalaciones
-  *Instalar Node
-  *Instalar Angular Cli
-  *Dentro del proyecto ejecutar npm install
+
+  - Instalar Node
+  - Instalar Angular Cli
+  - Dentro del proyecto ejecutar npm install
