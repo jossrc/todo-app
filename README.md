@@ -12,4 +12,4 @@ Para que puedan probarlo es necesario que hagan las siguientes instalaciones
 
   - Instalar Node
   - Instalar Angular Cli
-  - Dentro del proyecto ejecutar npm install
+  - Dentro del proyecto ejecutar npm install y luego ng serve -o
